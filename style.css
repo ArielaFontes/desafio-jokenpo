@@ -17,6 +17,7 @@ h1 {
     text-align: center;
     color: #bf5808;
     margin-bottom: 30px;
+    font-size: 60px;
 }
 
 .box {
@@ -93,3 +94,49 @@ p {
     background-color: #e25f0e;
 }
 
+@media screen and (max-width: 500px) {
+    .box {
+        width: 300px;
+        height: 160px;
+        padding: 1px;
+    }
+
+    p {
+        text-align: center;
+        margin-top: 3px;
+        font-weight: bold;
+        font-size: 32px;
+    }
+
+    h1 {
+        margin-bottom: 5px;
+        font-size: 28px;
+    }
+
+    button {
+        font-size: 22px;
+        padding: 4px;
+    }
+
+    .your-score{
+        font-size: 18px;
+    }
+    
+    .computer-score {
+        font-size: 18px;
+    }
+    
+    .your-score span {
+        font-size: 18px;
+    }
+    
+    .result {
+        font-size: 14px;
+    
+    }
+    
+    .computer-score span {
+        font-size: 18px;
+    }
+
+}
