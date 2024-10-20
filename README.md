@@ -11,4 +11,12 @@
   O código é uma implementação básica de um jogo interativo que permite ao usuário jogar contra o computador.
   A interação é feita através de botões, com a lógica do jogo e a manipulação do DOM realizadas por meio de JavaScript.
   O CSS garante que a interface seja visualmente atraente e responsiva.
+
+<div align="center">
+  
+<img src="/img/iPhone-X-127.0.0.1.png">
+  
+<img src="/img/Macbook-Air-127.0.0.1.png">
+
+</div>
   
